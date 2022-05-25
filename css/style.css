@@ -1,0 +1,210 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.ul-decoration{
+    background-color: #71c36754;
+}
+.yoga-logo a img{
+    height: 100px;
+    margin-left: 20px;
+}
+.ul-decoration ul li{
+    margin: 0 25px;
+}
+.ul-decoration ul li a{
+    text-decoration: none;
+    color: #3a4630;
+    font-size: 20px;
+    padding: 0 10px;
+}
+.ul-decoration ul li:hover{
+    background-color: #71c36754;
+}
+.yog-section{
+    align-items: center;
+    margin: 0;
+    padding: 5% 0;
+    background-color: #F2F9F5;
+    text-align: center;
+    color: #529995;
+}
+.yog-section div img{
+    max-width: 400px;
+    width: 100%;
+}
+.yog-img img{
+    height: 400px;
+}
+.yog-img h1{
+    font-size: 60px;
+}
+.yog-img p{
+    max-width: 350px;
+    width: 100%;
+    font-size: 15px;
+    margin: 30px auto;
+}
+.yog-img a{
+    background-color: #529995;
+    padding: 0 20px;
+    text-decoration: none;
+    color: white;
+    border-radius: 8px;
+}
+.yog-card-img{
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+}
+.yog-card-img div img{
+    max-width: 450px;
+    width: 100%;
+}
+.yog-card-img-text{
+    background-color: #529995;
+    padding: 50px;
+}
+.yoga-text{
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+}
+.yog-our{
+    background-image: url(../img/background1.png);
+    background-size: 100% 100%;
+    padding: 50px 0;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.yoga-our-text{
+    color: #529995;
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+.yog-card-our{
+    margin: 50px auto;
+    text-align: center;
+    color: #529995;
+    justify-content: space-around;
+}
+.yog-card-our div {
+    height: 300px;
+    border: 5px solid;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 20px;
+}
+.yog-read-more{
+    margin: 0;
+}
+.yog-read-right{
+    padding: 0;
+}
+.yog-read-more div img{
+    width: 100%;
+}
+.yog-read{
+    background-color: #529995;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10%;
+    color: white;
+}
+.yog-read h5{
+    font-size: 45px;
+}
+.yog-read p{
+    font-size: 20px;
+}
+.yog-read a{
+    max-width: 200px;
+    width: 100%;
+    color: #529995;
+    text-decoration: none;
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px;
+}
+.yog-read-more-two{
+    padding: 10%;
+    margin: 0;
+}
+.yog-read-more-two div img{
+    width: 100%;
+}
+.yog-read-tow{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10%;
+    color: #529995;
+}
+.yog-read-tow a{
+    max-width: 200px;
+    width: 100%;
+    color: white;
+    text-decoration: none;
+    background-color: #529995;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px;
+}
+.yog-read-tow h5{
+    font-size: 45px;
+}
+.button{
+    max-width: 200px;
+    width: 100%;
+    color: white;
+    text-decoration: none;
+    background-color: #529995;
+    text-align: center;
+    border-radius: 2px;
+    padding: 10px 50px;
+    margin-top: 50px;
+}
+.button:hover{
+    color: white;
+}
+.card-col{
+    width: 18rem; 
+    background-color: rgb(242 249 244);
+    color: #529995;
+}
+.card-col div p{
+    margin: 40px 0;
+}
+.card-img-yog{
+    margin: 50px auto;
+    justify-content: space-around;
+}
+.footer{
+    margin: 50px auto;
+    color: #529995;
+}
+.footer-col ul{
+    list-style: none;
+    padding: 0;
+}
+.footer-col ul li i{
+    padding: 7px 0;
+    width: 30px;
+    height: 30px;
+    background-color: #529995;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    margin: 5px;
+}
